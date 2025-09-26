@@ -1,0 +1,10 @@
+{
+  "name": "uniswap-v3-auto-trader",
+  "version": "1.0.0",
+  "dependencies": {
+    "@uniswap/v3-sdk": "^3.10.0",
+    "@uniswap/sdk-core": "^4.0.1",
+    "ethers": "^6.0.0",
+    "axios": "^1.0.0"
+  }
+}
