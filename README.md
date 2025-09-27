@@ -1,2 +1,2 @@
 # uniswap-v3-auto-trader
-go
+Free your hands in the defi world!
